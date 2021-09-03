@@ -1,6 +1,6 @@
 {
     "name": "Froxcey Sidebar",
-    "description": "Adds sidebar that allows you to download YouTube music and videos (YouTUbe-DL required)",
+    "description": "Adds sidebar that allows you to download YouTube music and videos (youtube-dl is required)",
     "author": "Froxcey",
     "email": "danichen204@gmail.com"
   }

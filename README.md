@@ -16,9 +16,18 @@ Alternatively, you can donwload them from here. [FFmpeg](https://www.ffmpeg.org/
 
 You might also need to enable "Load Bash Env" in Übersicht by going to menubar > Übersicht > Preferences
 
+If you don't have Übersicht, click [here](https://tracesof.net/uebersicht/)
+
+## Installation
+
+1. Download and unzip FroxceySidebar.widget.zip
+2. Click on menubar > Übersicht > Open Widget Folder
+3. Drag FroxceySidebar.widget into the folder (under widgets folder)
+4. Enjoy -ˬ-
+
 ## Configuration
 
-I'm planning on adding more configuration, but for now, I only offer sensitivity. Go to menubar > Übersicht > FroxceySidebar-widget-index-jsx > Edit, and you should now be able to edit the file. You should see on line 6
+I'm planning on adding more configuration, but for now, I only offer sensitivity. Go to menubar > Übersicht > FroxceySidebar-widget-index-jsx > Edit, and you should now be able to edit the file. You should see on line 2:
 
 `HoverWidth: 10,`
 
