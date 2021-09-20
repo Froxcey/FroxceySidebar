@@ -14,9 +14,15 @@ To make the download process work, you need to install FFmpeg and youtube-dl. Yo
 
 Alternatively, you can donwload them from here. [FFmpeg](https://www.ffmpeg.org/) [youtube-dl](https://youtube-dl.org/) 
 
-You might also need to enable "Load Bash Env" in Übersicht by going to menubar > Übersicht > Preferences
+You might also need to enable "Load Bash Env" in Übersicht by going to menubar > Übersicht > Preferences and disable send to background (enable interaction) by going to  menubar > Übersicht > Froxcey Widget > uncheck "Send to Background"
 
 If you don't have Übersicht, click [here](https://tracesof.net/uebersicht/)
+
+## Known Issues
+
+Sometimes there's a bug with the widget, and you might need to click on menubar > Übersicht > Show Debug Console and click on menubar > Übersicht > Refresh All Widgets, then it would magically work (neither do I know why this problem occurs).
+
+There are some unfixable render error.
 
 ## Installation
 
@@ -32,6 +38,14 @@ I'm planning on adding more configuration, but for now, I only offer sensitivity
 `HoverWidth: 10,`
 
 Simply change the 10 to whatever you want. Unit: pixels. This defines the range of hover detection (from right).
+
+## Upcoming Features
+
+- Bug Fixes
+- YouTube playlist download
+- Better YouTube download quality
+- Better UI
+- Key Modifier
 
 ##  Contribution
 
