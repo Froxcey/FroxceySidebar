@@ -1,5 +1,7 @@
 # Froxcey Sidebar
 
+**This project is currently inactive, meaning it will not receive any updates.** The reason is that I coded this for myself, but I don't use Übersicht anymore. I will still read and respond to issues.
+
 ## About 
 
 A Übersicht widget that adds IP display and YouTube download button to your desktop. Just hover your mouse to the very right, and you will see everything. Click on the ip address to copy it. Simply copy a YouTube video link and click on either mp3 or mp4, then the video or music will be ready in your download directory.
